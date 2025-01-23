@@ -1,0 +1,29 @@
+{
+  "name": "tg-shop",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "animate.css": "^4.1.1",
+    "autoprefixer": "^10.4.20",
+    "axios": "^1.7.7",
+    "bootstrap": "^5.3.3",
+    "jquery": "^3.7.1",
+    "number-to-words": "^1.2.4",
+    "persian-number": "^1.6.0",
+    "postcss": "^8.4.49",
+    "tailwindcss": "^3.4.15",
+    "vue": "^3.5.12",
+    "vue-router": "^4.4.5",
+    "vuedraggable": "^4.1.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.1.4",
+    "vite": "^5.4.9"
+  }
+}
