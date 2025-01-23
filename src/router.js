@@ -64,7 +64,7 @@ const routes = [
 const router = createRouter({
     history: createWebHistory(),
     routes
-});
+}); 
 
 // محافظ برای مسیرها که نیاز به احراز هویت دارند
 router.beforeEach((to, from, next) => {
